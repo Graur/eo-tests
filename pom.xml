@@ -35,7 +35,7 @@ SOFTWARE.
   <packaging>jar</packaging>
   <name>eo-hamcrest</name>
   <properties>
-    <eolang.version>0.32.0</eolang.version>
+    <eolang.version>0.38.4</eolang.version>
   </properties>
   <description>Hamcrest matchers for EOLANG</description>
   <url>https://github.com/objectionary/eo-hamcrest</url>
